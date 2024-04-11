@@ -1,63 +1,36 @@
 [
 	{
 		"id": 1,
-		"name": "T-Shirt",
-		"price": "$40.00",
+		"name": "Fender Stratocaster",
+		"price": "$400",
 		"images": [
 			{
-				"url": "./assets/T-shirt-black.png",
+				"url": "img/1.jpg",
 				"color": "#272727"
-			},
-			{
-				"url": "./assets/T-shirt-darkblue.png",
-				"color": "#23284E"
 			}
 		]
 	},
 
 	{
 		"id": 2,
-		"name": "Oversize T-Shirt",
-		"price": "$52.99",
+		"name": "Gibson Les Paul",
+		"price": "$450",
 		"images": [
 			{
-				"url": "./assets/oversize-T-shirt-blue.png",
-				"color": "#4F8196"
+				"url": "",
+				"color": ""
 			}
 		]
 	},
 
 	{
 		"id": 3,
-		"name": "Sweater",
-		"price": "$69.99",
+		"name": "Ibanez TOD10",
+		"price": "$2000",
 		"images": [
 			{
-				"url": "./assets/sweater-white.png",
-				"color": "#E8E8E8"
-			},
-			{
-				"url": "./assets/sweater-orange.png",
-				"color": "#FAB364"
-			},
-			{
-				"url": "./assets/sweater-pink.png",
-				"color": "#F2CFCD"
-			}
-		]
-	},
-	{
-		"id": 4,
-		"name": "Jeans",
-		"price": "$60.00",
-		"images": [
-			{
-				"url": "./assets/jeans-blue.png",
-				"color": "#2C88B3"
-			},
-			{
-				"url": "./assets/jeans-black.png",
-				"color": "#505654"
+				"url": "",
+				"color": ""
 			}
 		]
 	}
