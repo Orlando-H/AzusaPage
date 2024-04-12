@@ -1,46 +1,64 @@
-{
-	"products": [
-	  {
+[
+	{
 		"id": 1,
-		"image": "img/1.jpg",
-		"name": "70th Anniversary Professional Player Stratocaster",
-		"price": "$999.99",
-		"button": "+"
-	  },
-	  {
+		"name": "T-Shirt",
+		"price": "$40.00",
+		"images": [
+			{
+				"url": "img/1.jpg",
+				"color": "#272727"
+			},
+			{
+				"url": "./assets/T-shirt-darkblue.png",
+				"color": "#23284E"
+			}
+		]
+	},
+
+	{
 		"id": 2,
-		"image": "img/3.jpg",
-		"name": "American Professional II Stratocaster",
-		"price": "$1599.99",
-		"button": "+"
-	  },
-	  {
+		"name": "Oversize T-Shirt",
+		"price": "$52.99",
+		"images": [
+			{
+				"url": "./assets/oversize-T-shirt-blue.png",
+				"color": "#4F8196"
+			}
+		]
+	},
+
+	{
 		"id": 3,
-		"image": "img/2.jpg",
-		"name": "American Professional II Stratocaster HSS",
-		"price": "$1849.99",
-		"button": "+"
-	  },
-	  {
+		"name": "Sweater",
+		"price": "$69.99",
+		"images": [
+			{
+				"url": "./assets/sweater-white.png",
+				"color": "#E8E8E8"
+			},
+			{
+				"url": "./assets/sweater-orange.png",
+				"color": "#FAB364"
+			},
+			{
+				"url": "./assets/sweater-pink.png",
+				"color": "#F2CFCD"
+			}
+		]
+	},
+	{
 		"id": 4,
-		"image": "img/4.jpg",
-		"name": "American Professional Vintage II Stratocaster 1961",
-		"price": "$2299.99",
-		"button": "+"
-	  },
-	  {
-		"id": 5,
-		"image": "img/5.jpg",
-		"name": "American Performer Stratocaster HSS",
-		"price": "$1449.99",
-		"button": "+"
-	  },
-	  {
-		"id": 6,
-		"image": "img/6.jpg",
-		"name": "Tom DeLonge Stratocaster",
-		"price": "$1299.99",
-		"button": "+"
-	  }
-	]
-  }
+		"name": "Jeans",
+		"price": "$60.00",
+		"images": [
+			{
+				"url": "./assets/jeans-blue.png",
+				"color": "#2C88B3"
+			},
+			{
+				"url": "./assets/jeans-black.png",
+				"color": "#505654"
+			}
+		]
+	}
+]
