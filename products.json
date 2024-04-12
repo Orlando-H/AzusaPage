@@ -1,37 +1,46 @@
-[
-	{
+{
+	"products": [
+	  {
 		"id": 1,
-		"name": "Fender Stratocaster",
-		"price": "$400",
-		"images": [
-			{
-				"url": "img/1.jpg",
-				"color": "#272727"
-			}
-		]
-	},
-
-	{
+		"image": "img/1.jpg",
+		"name": "70th Anniversary Professional Player Stratocaster",
+		"price": "$999.99",
+		"button": "+"
+	  },
+	  {
 		"id": 2,
-		"name": "Gibson Les Paul",
-		"price": "$450",
-		"images": [
-			{
-				"url": "",
-				"color": ""
-			}
-		]
-	},
-
-	{
+		"image": "img/3.jpg",
+		"name": "American Professional II Stratocaster",
+		"price": "$1599.99",
+		"button": "+"
+	  },
+	  {
 		"id": 3,
-		"name": "Ibanez TOD10",
-		"price": "$2000",
-		"images": [
-			{
-				"url": "",
-				"color": ""
-			}
-		]
-	}
-]
+		"image": "img/2.jpg",
+		"name": "American Professional II Stratocaster HSS",
+		"price": "$1849.99",
+		"button": "+"
+	  },
+	  {
+		"id": 4,
+		"image": "img/4.jpg",
+		"name": "American Professional Vintage II Stratocaster 1961",
+		"price": "$2299.99",
+		"button": "+"
+	  },
+	  {
+		"id": 5,
+		"image": "img/5.jpg",
+		"name": "American Performer Stratocaster HSS",
+		"price": "$1449.99",
+		"button": "+"
+	  },
+	  {
+		"id": 6,
+		"image": "img/6.jpg",
+		"name": "Tom DeLonge Stratocaster",
+		"price": "$1299.99",
+		"button": "+"
+	  }
+	]
+  }
